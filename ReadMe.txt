@@ -7,3 +7,5 @@ I have published the solution to create the installer. It is located in \MossApp
 If you find any errors, please let me know: smay1@nwacc.edu
 
 Thank you. 
+
+============= forked from repo, the edits made provide the user the ability to check verilog files
